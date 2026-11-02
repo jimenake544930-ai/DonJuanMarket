@@ -89,7 +89,7 @@ namespace DonJuanMarket
         {
             Console.Clear();
             Escribir("=======================================", ConsoleColor.Cyan);
-            Escribir("            Don Juan MARKET", ConsoleColor.Cyan);
+            Escribir("            Don Juan Market", ConsoleColor.Cyan);
             Escribir("    SISTEMA DE GESTIÓN DE SUPERMERCADO", ConsoleColor.Cyan);
             Escribir("=======================================", ConsoleColor.Cyan);
             Console.WriteLine();
